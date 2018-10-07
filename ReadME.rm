@@ -1,0 +1,7 @@
+edition1.0
+basic scribble function (based on Qt scribble example)
+add functuon: 
+-draw lines, rectangles, ellipse
+-erase
+
+the background is initialized as white. 
